@@ -1,0 +1,2 @@
+parece ser que para que lea correctamente los caracteres de la fuente,
+el último color de la paleta debe ser : f4f1e0
