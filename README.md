@@ -8,6 +8,12 @@ Deck of Time is a humorous blackjack game for MS-DOS, featuring a retro 90s PC g
 
 The game was created for the **[Second MS-DOS Club DOS Game Programming Contest](https://msdos.club/foro/topic/segundo-concurso-de-programacion-para-juegos-dos-del-ms-dos-club/)**.
 
+## Technical Information
+
+* **Language:** C
+* **Library:** Allegro 4.2.3
+* **Platform:** MS-DOS
+
 ## Download
 
 Check the [Releases](../../releases) section to download the latest version.
