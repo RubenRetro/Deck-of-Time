@@ -8,11 +8,24 @@ Deck of Time is a humorous blackjack game for MS-DOS, featuring a retro 90s PC g
 
 The game was created for the **[Second MS-DOS Club DOS Game Programming Contest](https://msdos.club/foro/topic/segundo-concurso-de-programacion-para-juegos-dos-del-ms-dos-club/)**.
 
+## Play Online
+
+You can play Deck of Time directly in your browser on [itch.io](https://rubenretro.itch.io/deck-of-time), with no installation required.
+
+**[▶ Play Deck of Time online](https://rubenretro.itch.io/deck-of-time)**
+
 ## Technical Information
 
 * **Language:** C
 * **Library:** Allegro 4.2.3
 * **Platform:** MS-DOS
+
+## System Requirements
+
+* **CPU:** 386 or faster
+* **RAM:** 4 MB
+* **Graphics:** VGA
+* **Operating System:** MS-DOS 5.0 or later
 
 ## Download
 
